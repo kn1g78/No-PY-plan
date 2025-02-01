@@ -23,3 +23,7 @@
 3. 用户不得在使用本项目提供的信息时对自己或他人有任何方面上的损害
 4. 若用户在使用本项目的信息时存在任何违法行为，本团队以及团队全部人员不承担任何责任
 5. 用户的下载、使用、浏览、提交等行为即视为您已阅读并同意上述协议的约束
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Team-intN18-SoybeanSeclab/No-PY-plan&type=Date)](https://star-history.com/#Team-intN18-SoybeanSeclab/No-PY-plan&Date)
